@@ -14,7 +14,7 @@ const Header = () => {
       <img className="header__logo" src={tinderLogo} alt="" />
 
       <IconButton>
-        <ForumIcon fontSize="Large" className="header__icon" />
+        <ForumIcon fontSize="large" className="header__icon" />
       </IconButton>
     </div>
   );

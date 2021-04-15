@@ -1,0 +1,5 @@
+rest client cmd + shift + p
+
+GET http://localhost:8001
+
+POST http://localhost:8001/tinder/cards
